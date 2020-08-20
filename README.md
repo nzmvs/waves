@@ -1,5 +1,5 @@
 # waves
-A simple .NET Core console app that interacts with [ReqRes API] (https://reqres.in/).
+A simple .NET Core console app that interacts with [ReqRes API](https://reqres.in/).
 
 ## Dependencies
 * .NET Core 3.1
