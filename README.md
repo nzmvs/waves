@@ -16,4 +16,4 @@ Or just call the executable. Additionaly, you can pass *page* and *perPage* para
 ```
 dotnet run -- 3 4
 ```
-Per default, *page = 1* and *perPage = 2*.
+will fetch 4 results from page 3. Per default, *page = 1* and *perPage = 2*.
