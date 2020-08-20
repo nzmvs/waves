@@ -13,4 +13,4 @@ Or just call the executable. Additionaly, you can pass *page* and *perPage* para
 ```
 dotnet run -- 3 4
 ```
-Per default, *page* parameter is set to *1* and *perPage* is set to 2.
+Per default, *page = 1* and *perPage = 2*.
